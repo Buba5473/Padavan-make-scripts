@@ -1,5 +1,7 @@
 # Padavan-make-scripts
-Some scripts for compile Padavan firmware from the latest sourcesEnglish:
+Some scripts for compile Padavan firmware from the latest sources
+
+English:
 These scripts download the latest versions of the source code for compilation. Just put them in a custom folder
 
 Русский:
